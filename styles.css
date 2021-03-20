@@ -1,0 +1,108 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-link{
+  font-family:georgia;
+}
+.column{
+  float: left;
+  width: 31%;
+  margin: 20px 1.15%;
+  height: 400px;
+  margin-bottom: 100px;
+  background-color: peru;
+}
+
+.title{
+  text-align: center;
+  color: white;
+  margin-top: 15px;
+  font-family: georgia;
+}
+
+.content{
+  color: white;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.checked{
+  color: #C0C0C0;
+}
+
+.rating{
+  margin-left: 35%;
+}
+
+.col2{
+  float: left;
+  width: 45%;
+  margin: 20px 1.15%;
+  height: 300px;
+  margin-bottom: 100px;
+  background-color: white;
+}
+
+.featuredArtist{
+  margin-top: 40px;
+  text-align:center;
+  font-family: georgia;
+}
+
+.artistName{
+  text-align:center;
+}
+
+.description{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.footer{
+  position:fixed;
+  left:0;
+  bottom:0;
+  background-color:#404040;
+  color:white;
+  text-align:center;
+  width:100%;
+}
+
+a{
+  color:white;
+}
+
+a:hover{
+  color:gray;
+}
+
+.amPic{
+  margin-top: 125px;
+}
+
+.titleHead{
+  text-align:center;
+  color:peru;
+  font-family:georgia;
+  margin-top:25px;
+  font-size:70px;
+}
+
+.page{
+  float: left;
+  width: 97%;
+  margin: 20px 1.15%;
+  height: 400px;
+  margin-bottom: 100px;
+  background-color: peru;
+}
+
+.titleBody{
+  text-align:center;
+  font-family:georgia;
+}
